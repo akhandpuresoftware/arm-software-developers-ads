@@ -265,7 +265,7 @@ terraform init
 
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/87687468/203512908-be62b51f-ed17-4d48-bc43-4190080e05ef.png)
 
-### Create a Terraform execution plan
+### Create Terraform execution plan
 Run `terraform plan` to create an execution plan.
 ```console
 terraform plan
