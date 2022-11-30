@@ -17,7 +17,7 @@ review:
             - "True"
             - "False"
         correct_answer: 1                     
-        explination: >
+        explanation: >
             You can run Kubernetes applications as serverless containers using AWS Fargate and Amazon EKS.
 
     - questions:
@@ -27,7 +27,7 @@ review:
             - "True"
             - "False"
         correct_answer: 2                     
-        explination: >
+        explanation: >
             Terraform is not specific to AWS and was created by HashiCorp.
 
     -  questions:
@@ -37,7 +37,7 @@ review:
             - "True"
             - "False"
         correct_answer: 1                     
-        explination: >
+        explanation: >
             Amazon EKS performs managed, in-place cluster upgrades for both Kubernetes and Amazon EKS platform versions.
 
 
