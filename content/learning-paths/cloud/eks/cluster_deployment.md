@@ -258,7 +258,7 @@ resource "random_string" "suffix" {
 
 ## Terraform commands
 ### Initialize Terraform
-Run `terraform init` to initialize the Terraform deployment. This command downloads the AWSe modules required to manage your AWS resources.
+Run `terraform init` to initialize the Terraform deployment. This command downloads the AWS modules required to manage your AWS resources.
 ```console
 terraform init
 ```
