@@ -1,13 +1,14 @@
 ---
+---
 # ================================================================================
 #       Edit
 # ================================================================================
 
 next_step_guidance: >
-    We recommend you continue learning about migrating applications to Arm. 
+    We recommend you continue learning about deploying applications on Arm. 
 # 1-3 sentence recommendation outlining how the reader can generally keep learning about these topics, and a specific explanation of why the next step is being recommended.
 
-recommended_path: "/learning-paths/cloud/migration/"
+recommended_path: "/learning-paths/cloud/aks"
 # Link to the next learning path being recommended(For example this could be /learning-paths/cloud/mongodb).
 
 # further_reading links to references related to this path. Can be:
