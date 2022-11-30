@@ -17,7 +17,7 @@ review:
             - "True"
             - "False"
         correct_answer: 1                     
-        explanation: >
+        explination: >
             You can run Kubernetes applications as serverless containers using AWS Fargate and Amazon EKS.
 
     - questions:
