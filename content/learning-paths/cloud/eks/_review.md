@@ -27,7 +27,7 @@ review:
             - "True"
             - "False"
         correct_answer: 2                     
-        explanation: >
+        explination: >
             Terraform is not specific to AWS and was created by HashiCorp.
 
     -  questions:
@@ -37,7 +37,7 @@ review:
             - "True"
             - "False"
         correct_answer: 1                     
-        explanation: >
+        explination: >
             Amazon EKS performs managed, in-place cluster upgrades for both Kubernetes and Amazon EKS platform versions.
 
 
