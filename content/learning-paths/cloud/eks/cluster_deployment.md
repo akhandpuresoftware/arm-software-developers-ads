@@ -1,5 +1,5 @@
 ---
-title: "EKS cluster on Arm-based instance"
+title: "Deploy an EKS cluster"
 weight: 2
 layout: learningpathall
 ---
