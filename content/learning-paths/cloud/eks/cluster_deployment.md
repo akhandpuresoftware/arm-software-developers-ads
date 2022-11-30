@@ -1,7 +1,7 @@
 ---
 title: "EKS cluster on Arm-based instance"
 weight: 2
-layout: learmingpathall
+layout: learningpathall
 ---
 
 # Prerequisites
