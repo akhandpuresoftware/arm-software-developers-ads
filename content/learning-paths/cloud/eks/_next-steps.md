@@ -10,12 +10,10 @@ next_step_guidance: >
 recommended_path: "/learning-paths/cloud/"
 # Link to the next learning path being recommended.
 
-
 # further_reading links to references related to this path. Can be:
     # Manuals for a tool / software mentioned   (type: documentation)
     # Blog about related topics                 (type: blog)
-    # General online references                 (type: website) 
-
+    # General online references                 (type: website)
 further_reading:
     - resource:
         title: EKS documentation
