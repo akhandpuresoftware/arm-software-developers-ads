@@ -19,6 +19,8 @@ prerequisites:
     - The AWS CLI
     - The Kubernetes CLI also known as `kubectl`
 
+author_primary: Jason Andrews
+
 ### Tags
 skilllevels: Introductory
 subjects: Containers and Virtualization
